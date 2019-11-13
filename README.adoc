@@ -1,3 +1,5 @@
+= VERION-1
+
 = REST API Level 0 - Spring Boot Booster
 
 IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
